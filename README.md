@@ -2,7 +2,10 @@
 
 ## 📷 Dashboard Preview
 
-![Product Sales Dashboard](Images/Screenshot%202026-06-15%20125824.png)
+<p align="center">
+  <img src="Screenshot%2026-06-15%125824.png" width="900">
+</p>
+
 
 ## An interactive Power BI dashboard designed to analyze product sales performance, revenue trends, customer insights, regional contribution, and profitability metrics.
 
